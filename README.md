@@ -1,5 +1,5 @@
-# Launch-Extension-Community
-Open source community for Adobe Launch Extension development.
+# Community Projects
+This space will be used to request and track the development of community Extensions.
 
 ## Open Projects ##
 
