@@ -15,5 +15,5 @@ Provide examples, if possible.
 **How does it work?**
 Are there existing javascript objects/functions that can be incorporated?
 
-***Link to example image***
-Drag and drop images, if possible.
+**Mock-Up Image**
+Drag and drop a mock-up image, if possible.
