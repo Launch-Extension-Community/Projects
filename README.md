@@ -2,6 +2,9 @@
 This space will be used to request and track the development of community Extensions.
 
 ## Existing Extensions ##
+
+Here are some other open-source Extensions. You can help develop them, or use them as a starting point for your own.
+
 * [reactor-extension-core]
 * [launch-extension-simple-data-layer]
 * [launch-extension-time-spent-and-scroll-depth-event]
